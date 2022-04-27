@@ -1,6 +1,14 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <h1>암거나 적으셈</h1>
+  <h2>ㅇㅇ</h2>
+  <h2>ㅇㅇ</h2>
+  <h2>ㅇㅇ</h2>
+  <h2>ㅇㅇ</h2>
+  <h2>ㅇㅇ</h2>
+  <h2>ㅇㅇ</h2>
+  <h2>ㅇㅇ</h2>
 </template>
 
 <script>
